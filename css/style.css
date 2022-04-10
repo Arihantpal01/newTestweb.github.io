@@ -649,6 +649,7 @@ header label{
         display: block;
         margin:2rem 0;
         font-size: 2rem;
+        color:var(--pink);
     }
 
     header input:checked ~ .navbar{
