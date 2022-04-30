@@ -102,6 +102,7 @@ header .navbar a{
     margin-left: 2rem;
     color:var(--purple);
     text-decoration: none;
+    
 }
 
 header .navbar a:hover{
